@@ -4,7 +4,7 @@
   "description": "An example of how to run TestCafe tests in the cloud using Firefox and Chrome with Travis CI.",
   "main": "server.js",
   "scripts": {
-    "test": "tape ./tests/tapeTest.js"
+    "test": "node ./tests/tapeTest.js"
   },
   "repository": {
     "type": "git",
