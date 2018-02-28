@@ -21,7 +21,7 @@
     "serve-static": "^1.11.1"
   },
   "devDependencies": {
-    "testcafe": "*"
+    "testcafe": "*",
     "tape": "^4.6.0"
   }
 }
