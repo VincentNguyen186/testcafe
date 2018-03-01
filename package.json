@@ -22,6 +22,9 @@
   },
   "devDependencies": {
     "testcafe": "*",
-    "tape": "^4.6.0"
+    "tape": "^4.6.0",
+    "chrome-launcher": "*",
+    "chrome-remote-interface": "*"
+    
   }
 }
