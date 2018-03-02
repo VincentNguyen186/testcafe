@@ -8,7 +8,7 @@ test('My test', async t => {
         .click('#click-here')
         .expect(Selector('#click-here').value).eql('Hello!');
 });
-
+/*
 var test = require('tape');
 
 test('Tape testing', function(t) {
@@ -16,3 +16,4 @@ test('Tape testing', function(t) {
 
 	t.equal(1, 1, "dummy tape test.");
 });
+*/
